@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="assessment">Assessment</string>
+    <string name="profile">Profile</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="save">Save</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="bmi_result">Your BMI:</string>
+</resources>
